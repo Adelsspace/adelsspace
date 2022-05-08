@@ -1,4 +1,8 @@
-  ## ✨✨✨Обзор некоторых моих учебных проектов ✨✨✨
+ <h1 align="center">Привет, я Адель <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Фронтенд – разработчик</h3>
+ 
+ <h3 align="center">✨✨✨Обзор некоторых моих учебных проектов ✨✨✨</h3>
+
 
 
 | Проекты                  |                                                                                               Описание                                                                                               |                                                 Репозиторий                                                 |                          Live Demo                          |
