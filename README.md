@@ -1,10 +1,11 @@
  <h1 align="center">Привет, я Адель <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Фронтенд – разработчик и преподаватель.</h3>
 <br>
-<h5> Разрабатываю веб-приложения различной сложности используя React, TypeScript и на чистом JavaScript(ES6+).</h5>
-<h5> Веду курсы: создание веб-сайтов, визуальное программирование, Python.</h5> 
-<h5>  Hard skills:<h5>
+ Разрабатываю веб-приложения различной сложности используя React, TypeScript и на чистом JavaScript(ES6+).<br><br>
+ Веду курсы: создание веб-сайтов, визуальное программирование, Python. <br> <br>
+Hard skills: 
 <ul>
+ <br>
   <li> HTML (HTML5), JSX
    <li> CSS (CSS3)
     <li> JavaScript(ES6+), TypeScript
@@ -24,7 +25,7 @@
 | Проекты                  |                                                                                                                                      Описание                                                                                                                                      |                                                 Репозиторий                                                 |                          Live Demo                          |
 | ------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------: |
 | 0. Quiz about flags | Викторина на знание флагов стран. React, TypeScript, styled-components.   |   [код](https://github.com/Adelsspace/quiz-flags)| [live demo](https://quiz-adel.netlify.app/)|
-|| <h4>Приложения написанные на чистом JavaScript:</h4> <br>|
+|| <br> Приложения написанные на чистом JavaScript: <br> <br>|
 | 1. Forkify               | Финальный проект [учебного курса](https://www.udemy.com/certificate/UC-b371cdaa-5532-43fe-a29f-dd31e3bfa36f/). Приложение для поиска и создания рецептов. Реализовано: поиск рецептов(Api), render, добавление в закладки, создание собственных рецептов. Подробнее в репозитории. |                      [код](https://github.com/Adelsspace/recipes-study-project-final)                       |       [live demo](https://recipes-adel.netlify.app/)        |
 | 2. Mapty                 |                                                                                                                 Сайт для сохранения результата тренировок на карте                                                                                                                 |                    [код](https://github.com/Adelsspace/study-projects/tree/master/mapty)                    |         [live demo](https://mapty-adel.netlify.app)         |
 | 3. Dice game             |                                                                                                                               Игра в кости на двоих                                                                                                                                |                 [код](https://github.com/Adelsspace/study-projects/tree/master/dice%20game)                 |         [live demo](https://dice-adel.netlify.app)          |
