@@ -1,8 +1,9 @@
  <h1 align="center">Привет, я Адель <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Фронтенд – разработчик и преподаватель.</h3>
 <br>
- Разрабатываю веб-приложения различной сложности используя React, TypeScript и на чистом JavaScript(ES6+).<br><br>
- Веду курсы: создание веб-сайтов, визуальное программирование, Python. <br> <br>
+ - Разрабатываю веб-приложения различной сложности используя React, TypeScript и на чистом JavaScript(ES6+). <br>
+ - Веду курс: создание веб-сайтов<br>
+ - Занимаюсь репетиторством по JavaScript.<br><br>
 Hard skills: 
 <ul>
  <br>
@@ -24,7 +25,8 @@ Hard skills:
 
 | Проекты                  |                                                                                                                                      Описание                                                                                                                                      |                                                 Репозиторий                                                 |                          Live Demo                          |
 | ------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------: |
-| 0. Quiz about flags | Викторина на знание флагов стран. React, TypeScript, styled-components.   |   [код](https://github.com/Adelsspace/quiz-flags)| [live demo](https://quiz-adel.netlify.app/)|
+| 0. Pizza market | Фронтенд часть интернет-магазина пиццерии на React, TypeScript, Redux Toolkit, React Router, CSS-Modules / SCSS. Подробнее в репозитории   |   [код](https://github.com/Adelsspace/pizza-market)| [live demo](https://market-adel.netlify.app/)|
+ | 1. Quiz about flags | Викторина на знание флагов стран. React, TypeScript, styled-components.   |   [код](https://github.com/Adelsspace/quiz-flags)| [live demo](https://quiz-adel.netlify.app/)|
 || <br> Приложения написанные на чистом JavaScript: <br> <br>|
 | 1. Forkify               | Финальный проект [учебного курса](https://www.udemy.com/certificate/UC-b371cdaa-5532-43fe-a29f-dd31e3bfa36f/). Приложение для поиска и создания рецептов. Реализовано: поиск рецептов(Api), render, добавление в закладки, создание собственных рецептов. Подробнее в репозитории. |                      [код](https://github.com/Adelsspace/recipes-study-project-final)                       |       [live demo](https://recipes-adel.netlify.app/)        |
 | 2. Mapty                 |                                                                                                                 Сайт для сохранения результата тренировок на карте                                                                                                                 |                    [код](https://github.com/Adelsspace/study-projects/tree/master/mapty)                    |         [live demo](https://mapty-adel.netlify.app)         |
