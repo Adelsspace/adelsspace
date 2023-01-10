@@ -6,13 +6,13 @@
 Hard skills: 
 <ul>
  <br>
-  <li> HTML (HTML5), JSX
-   <li> CSS (CSS3)
-    <li> JavaScript(ES6+), TypeScript
-     <li> React
-      <li> BEM
-   	    <li>  Верстаю при помощи: Figma/Zeplin, PerfectPixel.
-         <li> Непрочь порешать задачки на leetcode(алгоритмы и структуры данных )
+  <li> JavaScript (ES6+), TypeScript.
+   <li> React. / Redux Toolkit / React Router
+    <li> CSS / CSS-Modules / SCSS
+     <li> HTML (HTML5), JSX.
+      <li> Верстаю при помощи: Figma/Zeplin, PerfectPixel. BEM, Flexbox
+   	    <li>  Git, webpack
+         <li> Алгоритмы и структуры данных.
  
  
 <br>     
