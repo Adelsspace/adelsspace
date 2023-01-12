@@ -9,7 +9,7 @@ Hard skills:
  <br>
   <li> JavaScript (ES6+), TypeScript.
    <li> React. / Redux Toolkit / React Router
-    <li> CSS / CSS-Modules / SCSS
+    <li> CSS / CSS-Modules / SCSS / Canvas
      <li> HTML (HTML5), JSX.
       <li> Верстаю при помощи: Figma/Zeplin, PerfectPixel. BEM, Flexbox
    	    <li>  Git, webpack
