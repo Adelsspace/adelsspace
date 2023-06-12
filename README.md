@@ -1,14 +1,14 @@
  <h1 align="center">Привет, я Адель <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Фронтенд – разработчик и преподаватель.</h3>
+<h3 align="center">Фронтенд – разработчик.</h3>
 <br>
  - Разрабатываю веб-приложения различной сложности используя React, TypeScript и на чистом JavaScript(ES6+). <br>
- - Веду курс: создание веб-сайтов<br>
- - Занимаюсь репетиторством по JavaScript.<br><br>
+ - Раньше преподавал веб разработку и  занимался репетиторством по JavaScript, на данный момент сосредоточился на профессиональном росте<br>
+ <br><br>
 Hard skills: 
 <ul>
  <br>
   <li> JavaScript (ES6+), TypeScript.
-   <li> React. / Redux Toolkit / React Hooks / React Router
+   <li> React. / Redux Toolkit / React Hooks / React Router, RTK query 
     <li> CSS / CSS-Modules / SCSS / Canvas
      <li> HTML (HTML5), JSX.
       <li> Верстаю при помощи: Figma/Zeplin, PerfectPixel. BEM, Flexbox
@@ -22,10 +22,15 @@ Hard skills:
           <h3 align="center">✨✨✨Обзор некоторых моих  проектов ✨✨✨</h3>
 
 <br>
+          
+          
+          
+          
 
 | Проекты                  |                                                                                                                                      Описание                                                                                                                                      |                                                 Репозиторий                                                 |                          Live Demo                          |
 | ------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------: |
 | |  <br> Приложения написанные на React: <br> <br>   | | |
+  | 0. Yet another Dictionary |   Онлайн словарь. Приложение написанное во время стажировки в Астон.  React,Redux Toolkit, rtk query. Подробнее в репозитории   | [код](https://github.com/Adelsspace/yet-another-dictionary)||
  | 1. Pizza market | Фронтенд часть интернет-магазина пиццерии на React, TypeScript, Redux Toolkit, React Router, CSS-Modules / SCSS. Подробнее в репозитории   |   [код](https://github.com/Adelsspace/pizza-market)| [live demo](https://market-adel.netlify.app/)|
  | 2. Quiz about flags | Викторина на знание флагов стран. React, TypeScript, styled-components.   |   [код](https://github.com/Adelsspace/quiz-flags)| [live demo](https://quiz-adel.netlify.app/)|
 || <br> Приложения написанные на чистом JavaScript: <br> <br>|
