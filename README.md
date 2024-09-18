@@ -6,7 +6,7 @@
 <br>     
 <br>    
 <br>  
-          <h3 align="center">✨✨✨Обзор некоторых моих  проектов, остальные можете посмотреть в репозиториях✨✨✨</h3>
+          <h3 align="center">✨✨✨Обзор некоторых моих  проектов✨✨✨</h3>
 
 <br>
           
@@ -17,9 +17,12 @@
 | Проекты                  |                                                                                                                                      Описание                                                                                                                                      |                                                 Репозиторий                                                 |                          Live Demo                          |
 | ------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------: |
 | |  <br> Приложения написанные на React: <br> <br>   | | |
-  | 0. Yet another Dictionary |   Онлайн словарь. Приложение написанное во время стажировки в Астон.  React,Redux Toolkit, rtk query. Подробнее в репозитории   | [код](https://github.com/Adelsspace/yet-another-dictionary)||
- | 1. Pizza market | Фронтенд часть интернет-магазина пиццерии на React, TypeScript, Redux Toolkit, React Router, CSS-Modules / SCSS. Подробнее в репозитории   |   [код](https://github.com/Adelsspace/pizza-market)| [live demo](https://market-adel.netlify.app/)|
- | 2. Quiz about flags | Викторина на знание флагов стран. React, TypeScript, styled-components.   |   [код](https://github.com/Adelsspace/quiz-flags)| [live demo](https://quiz-adel.netlify.app/)|
+| 0. Telegram Mini Apps | Фронтенд часть интернет-магазина  на React |   [код](https://github.com/Adelsspace/tg-web-app)| |
+ | 1. Telegram bot | Бекенд часть интернет-магазина на Nodejs, express   |   [код](https://github.com/Adelsspace/tg-web-app-bot)| |
+  | |   |  |  |
+  | 2. Yet another Dictionary |   Онлайн словарь. Приложение написанное во время стажировки в Астон.  React,Redux Toolkit, rtk query. Подробнее в репозитории   | [код](https://github.com/Adelsspace/yet-another-dictionary)||
+ | 3. Pizza market | Фронтенд часть интернет-магазина пиццерии на React, TypeScript, Redux Toolkit, React Router, CSS-Modules / SCSS. Подробнее в репозитории   |   [код](https://github.com/Adelsspace/pizza-market)| [live demo](https://market-adel.netlify.app/)|
+ | 4. Quiz about flags | Викторина на знание флагов стран. React, TypeScript, styled-components.   |   [код](https://github.com/Adelsspace/quiz-flags)| [live demo](https://quiz-adel.netlify.app/)|
 || <br> Приложения написанные на чистом JavaScript: <br> <br>|
 | 1. Forkify               | Финальный проект [учебного курса](https://www.udemy.com/certificate/UC-b371cdaa-5532-43fe-a29f-dd31e3bfa36f/). Приложение для поиска и создания рецептов. Реализовано: поиск рецептов(Api), render, добавление в закладки, создание собственных рецептов. Подробнее в репозитории. |                      [код](https://github.com/Adelsspace/recipes-study-project-final)                       |       [live demo](https://recipes-adel.netlify.app/)        |
 | 2. Mapty                 |                                                                                                                 Сайт для сохранения результата тренировок на карте                                                                                                                 |                    [код](https://github.com/Adelsspace/study-projects/tree/master/mapty)                    |         [live demo](https://mapty-adel.netlify.app)         |
