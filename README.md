@@ -1,25 +1,12 @@
  <h1 align="center">Привет, я Адель <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Фронтенд – разработчик.</h3>
 <br>
- - Разрабатываю веб-приложения различной сложности используя React, TypeScript и на чистом JavaScript(ES6+). <br>
- - Раньше преподавал веб разработку и  занимался репетиторством по JavaScript, на данный момент сосредоточился на профессиональном росте<br>
+Целеустремленный Frontend-разработчик с опытом работы в Яндексе и Aston. Обладаю навыками в JavaScript, TypeScript, React и Node.js, а также разнообразным опытом работы с CSS, включая различные методологии и подходы. Имею опыт работы в *nix системах. Стремлюсь к постоянному обучению и готов к новым вызовам, чтобы внести свой вклад в развитие команды и проектов
  <br><br>
-Hard skills: 
-<ul>
- <br>
-  <li> JavaScript (ES6+), TypeScript.
-   <li> React. / Redux Toolkit / React Hooks / React Router, RTK query 
-    <li> CSS / CSS-Modules / SCSS / Canvas
-     <li> HTML (HTML5), JSX.
-      <li> Верстаю при помощи: Figma/Zeplin, PerfectPixel. BEM, Flexbox
-   	    <li>  Git, webpack
-         <li> Алгоритмы и структуры данных.
- 
- 
 <br>     
 <br>    
 <br>  
-          <h3 align="center">✨✨✨Обзор некоторых моих  проектов ✨✨✨</h3>
+          <h3 align="center">✨✨✨Обзор некоторых моих  проектов, остальные можете посмотреть в репозиториях✨✨✨</h3>
 
 <br>
           
