@@ -19,7 +19,7 @@
  |  Проекты на C  | 🥐  |   [код](https://github.com/Adelsspace/c)| |
 | |  <br> Приложения написанные на React: <br> <br>   | | |
 | 0. Telegram Mini Apps | Фронтенд часть интернет-магазина  на React |   [код](https://github.com/Adelsspace/tg-web-app)| |
- | 1. Telegram bot | Бекенд часть интернет-магазина на Nodejs, express   |   [код](https://github.com/Adelsspace/tg-web-app-bot)| |
+ | 1. Telegram bot | бот интернет-магазина на Nodejs, express   |   [код](https://github.com/Adelsspace/tg-web-app-bot)| |
   | |   |  |  |
   | 2. Yet another Dictionary |   Онлайн словарь. Приложение написанное во время стажировки в Астон.  React,Redux Toolkit, rtk query. Подробнее в репозитории   | [код](https://github.com/Adelsspace/yet-another-dictionary)||
  | 3. Pizza market | Фронтенд часть интернет-магазина пиццерии на React, TypeScript, Redux Toolkit, React Router, CSS-Modules / SCSS. Подробнее в репозитории   |   [код](https://github.com/Adelsspace/pizza-market)| [live demo](https://market-adel.netlify.app/)|
