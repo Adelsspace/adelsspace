@@ -1,44 +1,34 @@
- <h1 align="center">Привет, я Адель <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Фронтенд – разработчик.</h3>
-<br>
-Целеустремленный Frontend-разработчик с опытом работы в Яндексе и Aston. Обладаю навыками в JavaScript, TypeScript, React и Node.js, а также разнообразным опытом работы с CSS, включая различные методологии и подходы. Имею опыт работы в *nix системах. Стремлюсь к постоянному обучению и готов к новым вызовам, чтобы внести свой вклад в развитие команды и проектов
- <br><br>
-<br>     
-<br>    
-<br>  
-          <h3 align="center">✨✨✨Обзор некоторых моих  проектов✨✨✨</h3>
+<h1 align="left">Привет, я Адель <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<br>
-          
-          
-          
-          
+<h2 align="left">Обо мне</h2>
 
-| Проекты                  |                                                                                                                                      Описание                                                                                                                                      |                                                 Репозиторий                                                 |                          Live Demo                          |
-| ------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------: |
- |  Проекты на C  | 🥐  |   [код](https://github.com/Adelsspace/c)| |
- | |  <br> Приложения написанные во время учебы в школе программистов HH: <br> <br>   | | |
-|  reviewer-finder | Приложение для поиска ревьюера на react, ts |   [код](https://github.com/Adelsspace/hh-school/tree/main/reviewer-finder)| |
-| python | Приложение на python |   [код](https://github.com/Adelsspace/hh-school/tree/main/python)| |
-| drag and drop | drag and drop api |   [код](https://github.com/Adelsspace/hh-school/tree/main/drag%20and%20drop)| |
-| приложения на ts | Разные приложения на ts |   [код](https://github.com/Adelsspace/hh-school/tree/main/ts)| |
-| |  <br> Приложения написанные на React: <br> <br>   | | |
-| 0. Telegram Mini Apps | Фронтенд часть интернет-магазина  на React |   [код](https://github.com/Adelsspace/tg-web-app)| |
- | 1. Telegram bot | бот интернет-магазина на Nodejs, express   |   [код](https://github.com/Adelsspace/tg-web-app-bot)| |
-  | |   |  |  |
-  | 2. Yet another Dictionary |   Онлайн словарь. Приложение написанное во время стажировки в Астон.  React,Redux Toolkit, rtk query. Подробнее в репозитории   | [код](https://github.com/Adelsspace/yet-another-dictionary)||
- | 3. Pizza market | Фронтенд часть интернет-магазина пиццерии на React, TypeScript, Redux Toolkit, React Router, CSS-Modules / SCSS. Подробнее в репозитории   |   [код](https://github.com/Adelsspace/pizza-market)| [live demo](https://market-adel.netlify.app/)|
- | 4. Quiz about flags | Викторина на знание флагов стран. React, TypeScript, styled-components.   |   [код](https://github.com/Adelsspace/quiz-flags)| [live demo](https://quiz-adel.netlify.app/)|
-|| <br> Приложения написанные на чистом JavaScript: <br> <br>|
-| 1. Forkify               | Финальный проект [учебного курса](https://www.udemy.com/certificate/UC-b371cdaa-5532-43fe-a29f-dd31e3bfa36f/). Приложение для поиска и создания рецептов. Реализовано: поиск рецептов(Api), render, добавление в закладки, создание собственных рецептов. Подробнее в репозитории. |                      [код](https://github.com/Adelsspace/recipes-study-project-final)                       |       [live demo](https://recipes-adel.netlify.app/)        |
-| 2. Mapty                 |                                                                                                                 Сайт для сохранения результата тренировок на карте                                                                                                                 |                    [код](https://github.com/Adelsspace/study-projects/tree/master/mapty)                    |         [live demo](https://mapty-adel.netlify.app)         |
-| 3. Рисовалка (Drawing App)                 |                                                                        Простая рисовалка при помощи canvas.                                                            |              [код](https://github.com/Adelsspace/study-projects/tree/master/drawing%20app)               |         [live demo](https://drawing-app-adel.netlify.app)         |
-| 4. Dice game             |                                                                                                                               Игра в кости на двоих                                                                                                                                |                 [код](https://github.com/Adelsspace/study-projects/tree/master/dice%20game)                 |         [live demo](https://dice-adel.netlify.app)          |
-| 5. Hoverboard            |                                                                                                                   Небольшой проект. Покраска пикселей при ховере                                                                                                                   |                 [код](https://github.com/Adelsspace/study-projects/tree/master/Hoverboard)                  |      [live demo](https://hoverboard-adel.netlify.app/)      |
-| 6. Guess My Number       |                                                                                                                              Игра в укадывание числа                                                                                                                               |         [код](https://github.com/Adelsspace/study-projects/tree/master/guess%20my%20number%20game)          |    [live demo](https://guessmynumber-adel.netlify.app/)     |
-| 7. Bankista-DOM          |                                                                                                                               Landing page для банка                                                                                                                               | [код](https://github.com/Adelsspace/rhttps://github.com/Adelsspace/study-projects/tree/master/bankista-DOM) |     [live demo](https://bankista-dom-adel.netlify.app/)     |
-| 8. Bankista-array        |                                                                                              Симулятор банковского приложения. Реализовано: отправка денег, сортировка, взять в долг                                                                                               |               [код](https://github.com/Adelsspace/study-projects/tree/master/bankista-array)                |    [live demo](https://bankista-array-adel.netlify.app/)    |
-| 9. Password Generator    |                                                                                                                                  Генератор пароля                                                                                                                                  |            [код](https://github.com/Adelsspace/study-projects/tree/master/Password%20Generator)             |  [live demo](https://password-generator-adel.netlify.app/)  |
-| 10. Sound board           |                                                                                                                                     Саундборд                                                                                                                                      |                 [код](https://github.com/Adelsspace/study-projects/tree/master/sound-board)                 |      [live demo](https://sound-board-adel.netlify.app)      |
-| 11. Random Choice Picker |                                                                                                                          Сайт для псевдослучайного выбора                                                                                                                          |          [код](https://github.com/Adelsspace/study-projects/tree/master/Random%20Choice%20Picker)           | [live demo](https://random-choice-picker-adel.netlify.app/) |
-| 12. Form input wave      |                                                                                                                       Красивая анимация при заполнении формы                                                                                                                       |               [код](https://github.com/Adelsspace/study-projects/tree/master/form-input-wave)               |     [live demo](https://forminputwave-adel.netlify.app)     |
+<p align="left">✨ Разработчик с более чем 3‑летним опытом в создании и поддержке веб‑приложений. Имею опыт проектирования, разработки и тестирования фронтенда и бэкенда.<br>
+📚 Сейчас изучаю: <strong>как готовить вкусное печенье</strong>.<br>
+🎯 Цели: <strong>построить единорога</strong> и <strong>улучшать продукты, которые используют люди</strong>.<br>
+🎲 Fun fact: стажировался в <strong>Яндексе</strong>, <strong>HeadHunter</strong> и <strong>Aston</strong>.</p>
+
+🔒 Большая часть моего классного кода под NDA — демо‑проекты в моих публичных репозиториях скорее про опробование идей и технологий, чем про идеальный код 😊
+
+<h2 align="left">С чем я работаю</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+</div>
